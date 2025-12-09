@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #FFFDD0;
+  --foreground: #3E2723;
+  /* Deep rich brown */
+  --ghee-gold: #F5C518;
+  --clay-red: #A0522D;
+  --cream: #FFFDD0;
+
+  --font-playfair-display: "Playfair Display", serif;
+  --font-inter: "Inter", sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Keeping the cream theme even in dark mode initially for consistnecy with the "Royal" vibe requested, 
+       or maybe a darker variant. Let's stick to the requested palette which implies light/earthy. 
+       If I really need dark mode: */
+    --background: #2D1A10;
+    /* Dark clay */
+    --foreground: #FFFDD0;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-inter);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-playfair-display);
+}
+
+/* Lippan-inspired subtle pattern */
+.bg-lippan-pattern {
+  background-image: radial-gradient(var(--clay-red) 1.5px, transparent 1.5px), radial-gradient(var(--ghee-gold) 1.5px, transparent 1.5px);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
+  opacity: 0.08;
+}
+
+/* Smooth Scrolling */
+html {
+  scroll-behavior: smooth;
+}
