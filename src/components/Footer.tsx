@@ -36,15 +36,15 @@ export default function Footer() {
                         <div className="space-y-4 mb-8 text-cream/80 font-light">
                             <div className="flex items-start gap-3">
                                 <MapPin className="w-5 h-5 text-clay-red shrink-0 mt-1" />
-                                <span>123, Gir Forest Road,<br />Junagadh, Gujarat - 362001</span>
+                                <span>"Desal Krupa" Shubham Desani Main Bazar, Hirpara Street, Lilapur - 360050 Ta.-Jasdan, Dist.- Rajkot</span>
                             </div>
                             <div className="flex items-center gap-3">
                                 <Phone className="w-5 h-5 text-clay-red shrink-0" />
-                                <a href="tel:+919876543210" className="hover:text-ghee-gold">+91 98765 43210</a>
+                                <a href="tel:+919876543210" className="hover:text-ghee-gold">+91 78747 79437</a>
                             </div>
                             <div className="flex items-center gap-3">
                                 <Mail className="w-5 h-5 text-clay-red shrink-0" />
-                                <a href="mailto:hello@gujaratghee.com" className="hover:text-ghee-gold">hello@gujaratghee.com</a>
+                                <a href="mailto:hello@gujaratghee.com" className="hover:text-ghee-gold">shubhamdeshani007@gmail.com</a>
                             </div>
                         </div>
 
