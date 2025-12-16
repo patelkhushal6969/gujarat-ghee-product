@@ -31,7 +31,7 @@ export default function Hero() {
                     </p>
 
                     <motion.a
-                        href="https://wa.me/919054453132?text=Kem%20cho!%20I%20am%20interested%20in%20the%20Gujarat%20Ghee%20Product.%20Please%20share%20the%20price%20and%20delivery%20details."
+                        href="https://wa.me/917874779437?text=Kem%20cho!%20I%20am%20interested%20in%20the%20Gujarat%20Ghee%20Product.%20Please%20share%20the%20price%20and%20delivery%20details."
                         target="_blank"
                         rel="noopener noreferrer"
                         initial={{ opacity: 0 }}
