@@ -19,7 +19,7 @@ export default function Home() {
     "offers": {
       "@type": "Offer",
       "availability": "https://schema.org/InStock",
-      "url": "https://wa.me/919054453132"
+      "url": "https://wa.me/917874779437"
     }
   };
 
