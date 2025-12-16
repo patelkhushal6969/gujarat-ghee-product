@@ -21,7 +21,7 @@ export default function Hero() {
                     className="flex-1 text-center md:text-left order-1 md:order-1 pt-8 md:pt-0"
                 >
                     <span className="block text-clay-red font-bold tracking-widest uppercase text-xs md:text-sm mb-4">
-                        Shuddh Desi • Ghar nu Swad
+                        Shuddh Desi • Ghar no Swad
                     </span>
                     <h1 className="text-4xl md:text-7xl font-serif text-deep-brown leading-[1.1] mb-6">
                         Pure <span className="text-ghee-gold">Gold</span> from the Lands of <span className="italic text-clay-red">Gujarat</span>.

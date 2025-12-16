@@ -40,11 +40,11 @@ export default function Footer() {
                             </div>
                             <div className="flex items-center gap-3">
                                 <Phone className="w-5 h-5 text-clay-red shrink-0" />
-                                <a href="tel:+919876543210" className="hover:text-ghee-gold">+91 78747 79437</a>
+                                <a href="tel:+917874779437" className="hover:text-ghee-gold">+91 78747 79437</a>
                             </div>
                             <div className="flex items-center gap-3">
                                 <Mail className="w-5 h-5 text-clay-red shrink-0" />
-                                <a href="mailto:hello@gujaratghee.com" className="hover:text-ghee-gold">shubhamdeshani007@gmail.com</a>
+                                <a href="shubhamdeshani007@gmail.com" className="hover:text-ghee-gold">shubhamdeshani007@gmail.com</a>
                             </div>
                         </div>
 
