@@ -11,7 +11,7 @@ export default function Footer() {
 
                     {/* Brand Section */}
                     <div className="space-y-4">
-                        <h2 className="text-3xl font-serif text-ghee-gold">Gujarat Ghee Product</h2>
+                        <h2 className="text-3xl font-serif text-ghee-gold">Gujrat Milk Product</h2>
                         <p className="text-cream/80 font-light max-w-xs leading-relaxed">
                             Bringing the purity of traditional Bilona Ghee from the pastures of Gir to your kitchen.
                             <br /><span className="italic text-clay-red/90">Shudh. Desi. Sattvic.</span>
@@ -61,7 +61,7 @@ export default function Footer() {
                 </div>
 
                 <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-cream/40 font-light">
-                    <span>© {new Date().getFullYear()} Gujarat Ghee Product. All rights reserved.</span>
+                    <span>© {new Date().getFullYear()} Gujrat Ghee Product. All rights reserved.</span>
                     <span>Made with ❤️ in Gujarat</span>
                 </div>
             </div>
